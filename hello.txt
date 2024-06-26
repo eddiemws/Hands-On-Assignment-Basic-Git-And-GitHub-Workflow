@@ -1,0 +1,34 @@
+
+Hello git
+
+here is a joke!
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+Why do Java developers wear glasses?
+Because they can't C#.
+
+How many programmers does it take to change a light bulb?
+None. It's a hardware problem.
+
+Why do Python programmers have low self-esteem?
+Because they're constantly comparing their self to others.
+
+Why do programmers hate nature?
+It has too many bugs.
+
+What’s a programmer’s favorite place to hang out?
+Foo Bar.
+
+Why was the JavaScript developer sad?
+Because he didn’t know how to ‘null’ his feelings.
+
+Why do programmers prefer iOS development over Android development?
+Because they can't stand the Java.
+
+Why don't programmers like to go out?
+They don't like to leave their code.
+
+Why do programmers prefer using the dark mode?
+Because the bytes are darker on the other side.
